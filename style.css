@@ -1,0 +1,39 @@
+.body{
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    font-size: 22px;
+    margin: 0px;
+    box-shadow: 7px 6px 6px white;
+}
+.note {
+    font-size: 21px;
+    color: black;
+}
+.div_speed {
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.div_img {
+    width: 200px;
+    margin-top: 13px;
+    border-radius: 100px;
+}
+#speed, #volume {
+    margin: 15px;
+    font-size: 23px;
+}
+button {
+    width: 200px;
+}
+canvas {
+    background-color: white;
+    box-shadow: 4px 6px 7px red;
+    border-radius: 20px;
+    border: solid 5px black;
+    margin-top: 140px;
+}
+
